@@ -1,0 +1,65 @@
+<div class="horizontal"></div>
+<div class="horizontall"></div>
+<div class="vertical"></div>
+<div class="square"></div>
+<div class="lines"></div>
+
+<style>
+  .square{
+    width:50px;
+    height:50px;
+    margin:10;
+    background-color:#724FAF;
+    position:relative;
+    top:-10px;
+    left:-100px;
+  }
+  
+  .vertical{
+    width:10px;
+    height:70px;
+    margin:10;
+   position:relative;
+    top:50px;
+    left:-40px;
+   background-color:#724FAF;
+  }
+  .horizontal{
+    width:40px;
+    height:10px;
+    background-color:#724FAF;
+     position:relative;
+    top:80px;
+    left:80px;
+  }
+  .horizontall{
+    width:40px;
+    height:10px;
+    background-color:#724FAF;
+    position:relative;
+    top:30px;
+    left:30px;
+  }
+  
+  .lines {
+    width: 110px;
+    height: 30px;
+    background:#724FAF;
+    margin:10;
+    position:relative;
+    top:-20px;
+    left:-110px;
+    box-shadow: 0 50px 0  #724FAF ,
+      0 100px 0  #724FAF  }
+ body{
+   background-color:#B6EBE7;
+    display:flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+ }
+
+  
+ 
+</style>
