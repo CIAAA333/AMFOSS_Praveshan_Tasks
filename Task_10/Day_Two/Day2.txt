@@ -1,0 +1,51 @@
+<div class="horizontall"></div>
+<div class="vertical"></div>
+<div class="square"></div>
+<div class="verticall"></div>
+<div class="horizontal"></div>
+
+<style>
+  .square{
+    width: 90px;
+    height: 90px;
+    background: #7C7565;
+    position:relative;
+    top:-215;
+    left:147;
+  }
+  .horizontal{
+    width: 80px;
+    height: 440px;
+    background: #7C7565;
+    position:relative;
+    top:-460;
+    left:322;
+  }
+   .horizontall{
+    width: 80px;
+    height:282px;
+    background: #7C7565;
+    position:relative;
+    top:-20;
+    left:-18;
+  }
+  .vertical{
+    width:192;
+    height:30;
+    background: #7C7565;
+    position:relative;
+    top:-290;
+  }
+  .verticall{
+    width:150;
+    height:80;
+     background: #7C7565;
+    position:relative;
+    top:-140;
+    left:192;
+  }
+  
+  
+  body {
+    background-color:#F1E1BE;
+</style>
