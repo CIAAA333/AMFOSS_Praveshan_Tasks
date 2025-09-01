@@ -1,0 +1,63 @@
+div class="vertical4"></div>
+<div class="vertical5"></div>
+<div class="vertical6"></div>
+<div class="vertical"></div>
+<div class="vertical2"></div>
+<div class="vertical3"></div>
+
+
+<style>
+   .vertical4{
+    width: 200px;
+    height: 30px;
+    background:#F4DA64;
+    position:absolute;
+    top:170;
+    left:0;
+  }
+   .vertical5{
+    width: 200px;
+    height: 30px;
+    background:#F4DA64;
+    position:absolute;
+    top:220;
+    left:0;
+  }
+   .vertical6{
+    width: 200px;
+    height: 30px;
+    background:#F4DA64;
+    position:absolute;
+    top:270;
+    left:0;
+  }
+  .vertical{
+    width: 200px;
+    height: 40px;
+    background:#F4DA64;
+    position:absolute;
+    top:-10;
+    left:200;
+  }
+  .vertical2{
+    width: 200px;
+    height: 30px;
+    background:#F4DA64;
+    position:absolute;
+    top:50;
+    left:200;
+  }
+  .vertical3{
+    width: 200px;
+    height: 30px;
+    background:#F4DA64;
+    position:absolute;
+    top:100;
+    left:200;
+  }
+  
+  
+  body{
+    background-color:#E25C57;
+  }
+</style>
