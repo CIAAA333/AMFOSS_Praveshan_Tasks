@@ -1,1 +1,3 @@
-
+Task 10-Day1{2025-08-28}
+Encountered few challenges while adapting to the tasks...
+I just sat and worked as much as I could to get the idea.
