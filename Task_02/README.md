@@ -5,7 +5,9 @@ This is my submission for Task 02.
 
 ## 1)Codeforces contest
 
- ```#include <stdio.h>
+ ```
+
+ #include <stdio.h>
 
 int main() 
 
@@ -36,12 +38,16 @@ int main()
       
     return 0;
 
-}```
+}
+
+```
 
 
 ## 2)Insurance
 
- ```#include <stdio.h>
+ ```
+
+ #include <stdio.h>
 
  #include <string.h>
 
@@ -76,7 +82,9 @@ int main()
 
     return 0;
 
-}```
+}
+
+```
 
 ## 3)Mine Gold
  
@@ -110,9 +118,13 @@ int main() {
 
 }
 
+```
+
 ## 4)Big Hotel
 
-  ```#include <stdio.h>
+  ```
+
+ #include <stdio.h>
   
  #include <string.h>
  
@@ -141,11 +153,15 @@ int main() {
 
     return 0;
 
-}```
+}
+
+```
 
 ## 5)Escape False Alarm
   
-```#include <stdio.h>
+```
+
+ #include <stdio.h>
 
 int main() {
 
@@ -194,7 +210,12 @@ int main() {
 
 }
 
+```
+
+
 ## 6)Remove Card
+
+```
 
  #include <stdio.h>
  
@@ -254,3 +275,4 @@ int main() {
 
 }
 
+```
