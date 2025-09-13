@@ -1,7 +1,8 @@
-TASK_1
+#TASK_1
 Hurray Completed Task 1 !
 Learned and utilized a bunch of new linux terminal commands.
-#COMMANDS I USED/LEARNED
+
+##COMMANDS I USED/LEARNED
 cd : change directory
 ls : list files and directories
      ls -a : to read hidden files(hidden files starts with a . )
