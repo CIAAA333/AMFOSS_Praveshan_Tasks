@@ -3,7 +3,7 @@
 
 This is my submission for Task 02.
 
-##1)Codeforces contest
+## 1)Codeforces contest
 
  ```#include <stdio.h>
 
@@ -39,7 +39,7 @@ int main()
 }```
 
 
-##2)Insurance
+## 2)Insurance
 
  ```#include <stdio.h>
 
@@ -78,7 +78,7 @@ int main()
 
 }```
 
-##3)Mine Gold
+## 3)Mine Gold
  
 ```#include <stdio.h>
  
@@ -110,7 +110,7 @@ int main() {
 
 }
 
-##4)Big Hotel
+## 4)Big Hotel
 
   ```#include <stdio.h>
   
@@ -143,7 +143,7 @@ int main() {
 
 }```
 
-##5)Escape False Alarm
+## 5)Escape False Alarm
   
 ```#include <stdio.h>
 
@@ -194,7 +194,7 @@ int main() {
 
 }
 
-##6)Remove Card
+## 6)Remove Card
 
  #include <stdio.h>
  
