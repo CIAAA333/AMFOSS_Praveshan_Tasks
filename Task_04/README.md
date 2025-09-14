@@ -1,6 +1,6 @@
-# Task_04 completed 
+# Task_04  
 
-** MISSION COMPLETED!!!! **
+__MISSION COMPLETED!!!!__
 
 Successfully integrated the CineScope Dashboard with a live MySQL database.
 
