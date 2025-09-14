@@ -62,4 +62,4 @@ So yes, I’ll definitely support and uplift juniors in the maximum way possible
 | [Task_11](./Task_11)   | OverTheWire Bandit              | ✅ Completed|
 | [Task_12](./Task_12)   | Hello, World!                   | ❌ Not Attempted |
 | [Task_13](./Task_13)   | Lessgo Hugo                     | ✅ Completed |
-| [Task_14](./Task-14)   | Sand Simulation                 | ❌ Not Attempted |
+| [Task_14](./Task_14)   | Sand Simulation                 | ❌ Not Attempted |
