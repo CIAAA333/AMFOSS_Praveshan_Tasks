@@ -46,7 +46,7 @@ So yes, I’ll definitely support and uplift juniors in the maximum way possible
 | [Task_00](./Task_00)   | Install Linux                   | ✅ Completed |
 | [Task_01](./Task_01)   | Terminal Hunt                   | ✅ Completed |
 | [Task_02](./Task_02)   | Cyberpunk Syndicate             | ✅ Completed |
-| [Task_03](./Task-03)   | The Circularity Challenge       | ✅ Completed |
+| [Task_03](./Task_03)   | The Circularity Challenge       | ✅ Completed |
 | [Task_04](./Task_04)   | CineScope                       | ✅ Completed |
 | [Task_05](./Task_05)   | TimeTickQuiz CLI                | ❌ Not Attempted|
 | [Task_06](./Task_06)   | LyricLounge Discord Bot         | ❌ Not Attempted|
